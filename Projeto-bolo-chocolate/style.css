@@ -1,0 +1,34 @@
+div{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 500px;
+    text-align: center;
+    margin: 30px auto;
+    border: 2px solid ;
+}
+
+h1{
+    font-size: 24px;
+    text-align: center;
+}
+
+h2{
+    font-size: 17px;
+    color: blueviolet;
+    font-weight: normal;
+    text-align: center;
+}
+
+h3{
+    font-size: 15px;
+    text-decoration: underline;
+    color: blueviolet;
+}
+
+p{
+    font-size: 13px;
+    line-height: 27px;
+}
+
+img{
+    height: 300px;
+}

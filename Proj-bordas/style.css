@@ -1,0 +1,45 @@
+body{
+    background-color: darkgrey;
+}
+
+div{
+    width: 500px;
+    margin: 20px auto;
+    background-color: white;
+    padding: 30px 50px 50px 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    font-size: 26px;
+    background-color: aqua;
+    color: black;
+    margin-top: 0;
+    margin-bottom: 40px;
+    padding: 10px;
+    border-left: 10px solid black;
+    border-radius: 0 25px 25px 0;
+}
+
+p{
+    font-size: 18px;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+
+img{
+    width: 500px;
+}
+
+ul{
+    font-size: 18px;
+}
+
+a{
+    font-size: 18px;
+    text-decoration: none;
+    background-color: aqua;
+    color: black;
+    border-radius: 18px;
+    padding: 18px;
+}

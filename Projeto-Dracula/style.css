@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+}
+
+div{
+    width: 500px;
+    margin: 0 auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 2px solid red;
+    text-align: center;
+    padding: 30px 80px 60px 60px;
+    
+}
+
+img{
+    width: 350px;
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    color: yellow;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+p{
+    color: red;
+    font-size: 18px;
+    margin-bottom: 50px;
+}
+
+span{
+    color: yellow;
+    font-weight: bold;
+}
+
+a{
+    font-size: 18px;
+    background-color: red;
+    text-decoration: none;
+    color: white;
+    padding: 15px 40px;
+
+}
