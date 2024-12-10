@@ -1,4 +1,8 @@
-
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 .secao{
     width: 700px;
     margin: 20px auto;
@@ -28,7 +32,8 @@ h2{
 }
 
 .imagem-banner{
-    width: 700px;
+    width: 600px;
+    height: 300px;
 }
 
 .secao-destaque{
@@ -38,7 +43,25 @@ h2{
     color: #fff;
 }
 
+.secao-destaque h3{
+    font-size: 24px;
+}
+
+.secao-destaque h4{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.secao-destaque p{
+    width: 500px;
+    margin: 0 auto;
+    line-height: 30px;
+}
+
 .secao-destaque img{
     width: 400px;
 }
 
+span{
+    font-weight: bold;
+}
